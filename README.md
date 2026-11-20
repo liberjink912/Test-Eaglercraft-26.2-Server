@@ -1,4 +1,4 @@
-# How to make a free Eaglercraft 26.2 server
+# How to make a free Eaglercraft 26.2 server(DOESNT WORK WITH OTHER JARFILES)
 Step 1: Create a Repo on main and
 Install Java 25 and PaperMC 26.2
 
